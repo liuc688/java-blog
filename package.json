@@ -1,0 +1,14 @@
+{
+  "devDependencies": {
+    "vitepress": "^2.0.0-alpha.4",
+    "vitepress-sidebar": "^1.31.1"
+  },
+  "scripts": {
+    "dev": "vitepress dev docs --open",
+    "build": "vitepress build docs",
+    "preview": "vitepress preview docs"
+  },
+  "dependencies": {
+    "@fancyapps/ui": "^5.0.36"
+  }
+}
