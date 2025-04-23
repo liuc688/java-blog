@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: '尚硅谷 Java'
-  text: '基于 VitePress 搭建的学习笔记网站'
+  # text: '基于 VitePress 搭建的学习笔记网站'
   tagline: '全面梳理 Java 核心知识，助力初学者扎实入门'
   actions:
     - theme: brand
